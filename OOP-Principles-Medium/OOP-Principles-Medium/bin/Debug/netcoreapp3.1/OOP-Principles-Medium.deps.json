@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOP-Principles-Medium/1.0.0": {
+        "runtime": {
+          "OOP-Principles-Medium.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP-Principles-Medium/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

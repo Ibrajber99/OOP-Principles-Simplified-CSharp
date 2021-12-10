@@ -1,0 +1,13 @@
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\bin\Debug\netcoreapp3.1\OOP-Principles-Medium.exe
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\bin\Debug\netcoreapp3.1\OOP-Principles-Medium.deps.json
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\bin\Debug\netcoreapp3.1\OOP-Principles-Medium.runtimeconfig.json
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\bin\Debug\netcoreapp3.1\OOP-Principles-Medium.runtimeconfig.dev.json
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\bin\Debug\netcoreapp3.1\OOP-Principles-Medium.dll
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\bin\Debug\netcoreapp3.1\OOP-Principles-Medium.pdb
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\obj\Debug\netcoreapp3.1\OOP-Principles-Medium.csproj.AssemblyReference.cache
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\obj\Debug\netcoreapp3.1\OOP-Principles-Medium.AssemblyInfoInputs.cache
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\obj\Debug\netcoreapp3.1\OOP-Principles-Medium.AssemblyInfo.cs
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\obj\Debug\netcoreapp3.1\OOP-Principles-Medium.csproj.CoreCompileInputs.cache
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\obj\Debug\netcoreapp3.1\OOP-Principles-Medium.dll
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\obj\Debug\netcoreapp3.1\OOP-Principles-Medium.pdb
+C:\Users\jber5\Desktop\OOP-Principles-Medium\OOP-Principles-Medium\obj\Debug\netcoreapp3.1\OOP-Principles-Medium.genruntimeconfig.cache
